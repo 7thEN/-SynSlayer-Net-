@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - 'Welcome to >StormNet<'
+  - 'Welcome to >&4Syn&6Slayer&fNet<'
   allow_motd: true
   allow_query: true
   request_motd_cache:
